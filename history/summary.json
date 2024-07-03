@@ -4,7 +4,7 @@
     "url": "https://www.soprasteria.no/",
     "icon": "https://icons.duckduckgo.com/ip3/www.soprasteria.no.ico",
     "slug": "sopra-steria",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1620,
     "timeMonth": 1801,
     "timeYear": 1806,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-03": 0
+    }
   },
   {
     "name": "ServiceNow",
